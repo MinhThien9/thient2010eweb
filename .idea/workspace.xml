@@ -1,10 +1,47 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="2f96e24a-891c-48bd-a38a-344c7908551b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/imgs/Mourinho-lot-top-3-HLV-hay-nhat-the-ky-21-don-tin-cuc-vui-ve-Son-Heung-Min-fdsgf-1603903499-354-width640height480.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/btss5.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/btss5.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imgs/cach-chup-anh-dep-tai-da-lat-1-2306.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imgs/sanphamao/images (1).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imgs/sanphamao/images (2).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imgs/sanphamao/images (3).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imgs/sanphamao/images (4).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imgs/sanphamao/images (5).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imgs/sanphamao/images (6).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imgs/sanphamao/images (7).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imgs/sanphamao/images.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imgs/sanphamao/mens-plain-formal-shirt-500x500.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/layout.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/layout.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sanpham.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ss5.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ss5.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/thuw.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/home.html" beforeDir="false" afterPath="$PROJECT_DIR$/home.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/home.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imgs/Mourinho-lot-top-3-HLV-hay-nhat-the-ky-21-don-tin-cuc-vui-ve-Son-Heung-Min-fdsgf-1603903499-354-width640height480.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,6 +52,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="HTML File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
@@ -32,6 +70,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/imgs" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -42,6 +81,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Admin\WebstormProjects\thien\imgs" />
       <recent name="C:\Users\Admin\WebstormProjects\thient2010eweb\imgs" />
     </key>
   </component>
@@ -54,6 +94,10 @@
       <option name="presentableId" value="Default" />
       <updated>1603985925394</updated>
       <workItem from="1603985926950" duration="4163000" />
+      <workItem from="1604579390164" duration="5363000" />
+      <workItem from="1605006232600" duration="7611000" />
+      <workItem from="1605180226200" duration="9416000" />
+      <workItem from="1605345818460" duration="320000" />
     </task>
     <task id="LOCAL-00001" summary="up">
       <created>1603986284597</created>
@@ -89,6 +133,18 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="up" />
     <option name="LAST_COMMIT_MESSAGE" value="up" />
@@ -110,5 +166,13 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="777" y="433" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040/1920.0.1858.1080@0.0.1920.1040" timestamp="1603988166890" />
+    <state x="339" y="164" key="run.anything.popup" timestamp="1605016667043">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="339" y="164" key="run.anything.popup/0.0.1366.728@0.0.1366.728" timestamp="1605016667043" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1605183407831">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1605183407831" />
   </component>
 </project>
